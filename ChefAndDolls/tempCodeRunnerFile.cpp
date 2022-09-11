@@ -1,0 +1,1 @@
+std::cout << odd_doll << std::endl;
